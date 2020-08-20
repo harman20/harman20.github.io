@@ -1,0 +1,62 @@
+div.main{
+  margin-left: auto;
+  margin-right: auto;
+}
+h1{
+  background-color: lightcyan;
+  text-decoration: underline;
+  text-shadow: 5px;
+  height: 50px;
+  width: 92%;
+  margin-left: 4%;
+}
+.left{
+  left: 5%;
+  position: absolute;
+  width: 24%;
+  box-sizing: border-box;
+  box-shadow: 5px 5px gainsboro;
+  background-color: lightcyan;
+  height: 1300px;
+  text-align: center;
+}
+.right{
+  left: 30%;
+  position: absolute;
+  width: 65%;
+  box-sizing: border-box;
+  box-shadow: 5px 5px gainsboro;
+  background-color: lightcyan;
+  height: 1300px;
+}
+span{
+  font-family: cursive;
+  font-size: 150%;
+}
+.footer{
+  top: 1410px;
+  position: absolute;
+  width: 92%;
+  background-color: lightcyan;
+  margin-left: 4%;
+}
+table,th,td{
+  border: 1px solid black;
+  padding: 5px;
+  border-collapse: collapse;
+}
+img.new{
+  margin-top: 10%;
+  border: 1px solid black;
+  border-radius: 25%;
+}
+img.one{
+  border-radius: 50%;
+  border: 1px solid black;
+  float: right;
+  /* position: absolute; */
+}
+body{
+  font-family: Recoleta,Georgia,"Times New Roman",Times,serif;
+  font-size: 115%; 
+}
